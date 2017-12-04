@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "D9AB504B-CCE6-49B6-999F-2532A9712F7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 233.6229946524064,
+    "x": 70.1871657754009,
+    "y": 386
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FED91736-306D-46A8-9CE3-F22BB08F673B"
+    },
+    {
+      "class": "group",
+      "id": "5350C28F-74B1-44F8-8D2E-4B16AD83E05A"
+    }
+  ],
+  "name": "donazione",
+  "nameIsFixed": true,
+  "originalObjectID": "D9AB504B-CCE6-49B6-999F-2532A9712F7B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

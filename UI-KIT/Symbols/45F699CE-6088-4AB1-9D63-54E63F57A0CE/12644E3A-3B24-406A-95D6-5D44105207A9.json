@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "12644E3A-3B24-406A-95D6-5D44105207A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 138,
+    "x": 24,
+    "y": 396
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 20,
+  "masterInfluenceEdgeMaxYPadding": 30,
+  "masterInfluenceEdgeMinXPadding": 20,
+  "masterInfluenceEdgeMinYPadding": 10,
+  "name": "button/secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "12644E3A-3B24-406A-95D6-5D44105207A9",
+  "overrides": {
+    "1F803DCE-FF9F-41BE-B225-2639A5E27302": {
+      "symbolID": "AC66A8C6-D393-4618-A982-EAA4CF46C8BA"
+    },
+    "43D592D1-A36E-444D-9D61-9B101A19D6CB": "VEDI TUTTI",
+    "9431D0FB-17EF-433B-86A3-F0787964ACED": {
+      "symbolID": ""
+    },
+    "97B54FCF-FF12-4146-BDBA-46B12EF6A212": {
+      "symbolID": "DD03B22C-32A9-4698-A20B-F9704205F459"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "779441F5-AE7A-477D-A1D3-D6E0F13C92AA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "8CDB12F3-F627-47B9-9FD0-93EEE441B0FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 849,
+    "x": 1437,
+    "y": 1937
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3ECAC2C7-56C8-4C43-82F4-D76A9D1C1898"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84D51E9B-0CF9-4169-B236-ADD770B1B5B0"
+    },
+    {
+      "class": "text",
+      "id": "03284249-94E2-4D50-B6FF-610705C49FD2"
+    },
+    {
+      "class": "text",
+      "id": "748FF7EF-137B-40CE-8511-DBF122496C71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4222A2CE-8B0F-451E-B852-9BEA7775647F"
+    }
+  ],
+  "name": "loghi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

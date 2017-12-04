@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA1NiYXLTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAIgBBfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdYdHh8KICEiIyQlIiRbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQAYAAI0A4AAAAAAAAgAfSJygpKlokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKSssXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKLi8wXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCjI1OKIzNIAKgAuiNjeADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QGkhlbHZldGljYU5ldWUtTWVkaXVtSXRhbGlj0icoPj9fEBNOU011dGFibGVEaWN0aW9uYXJ5oz5ALFxOU0RpY3Rpb25hcnnSJyhCQ18QEE5TRm9udERlc2NyaXB0b3KiRCxfEBBOU0ZvbnREZXNjcmlwdG9y0icoQEaiQCzSJyhISV8QEk5TQXR0cmlidXRlZFN0cmluZ6JKLF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFNTlRyb290gAEACAARABoAIwAtADIANwBMAFIAWQBiAGkAdgB4AHoAfACAAIcAjwCaAJ0AnwChAKQApgCoAKoAvQDfAOwA+AEDARUBNwFJAUsBTQFWAVgBXQFoAXEBiwGPAaIBqwGwAc0BzwHRAdgB2wHdAd8B4gHkAeYB6AH+AhQCHQI6Aj8CVQJZAmYCawJ+AoEClAKZApwCoQK2ArkCzgLgAuMC6AAAAAAAAAIBAAAAAAAAAE8AAAAAAAAAAAAAAAAAAALq"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "73DFF76C-A46C-4E93-98B8-A40B9C6DE7FD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 31,
+    "x": 116,
+    "y": 477
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EBB34636-D8CB-4689-B115-C0A16EB78BAB"
+  },
+  "textBehaviour": 0
+}

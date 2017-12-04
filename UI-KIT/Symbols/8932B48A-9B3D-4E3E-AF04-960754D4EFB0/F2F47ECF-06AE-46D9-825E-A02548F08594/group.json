@@ -1,0 +1,182 @@
+{
+  "_class": "group",
+  "do_objectID": "F2F47ECF-06AE-46D9-825E-A02548F08594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A94C42A-633F-4374-88F4-D1D2DC706858"
+    },
+    {
+      "class": "group",
+      "id": "C8313E6E-9F82-4046-9D3F-ED70BCA95238"
+    },
+    {
+      "class": "group",
+      "id": "5E300B20-9570-44B6-995A-C3B03D904CB4"
+    },
+    {
+      "class": "group",
+      "id": "F15E2394-076C-4195-879D-A42DBA6B6E95"
+    },
+    {
+      "class": "group",
+      "id": "C7F39E29-CDC3-4303-B132-62825E194E7F"
+    },
+    {
+      "class": "group",
+      "id": "4A153CCE-302B-4C50-BB38-13EE951E7B58"
+    },
+    {
+      "class": "group",
+      "id": "8DEA26CB-0054-473C-871E-AAEAA9D64F9E"
+    },
+    {
+      "class": "group",
+      "id": "7B36EC38-48F1-4CF5-9BB5-D34AB0F9D4D5"
+    },
+    {
+      "class": "group",
+      "id": "C065134B-F281-483C-A4C0-025C0E061ACF"
+    },
+    {
+      "class": "group",
+      "id": "FA7DA6B6-6249-4419-9B2A-18D4D663447F"
+    },
+    {
+      "class": "group",
+      "id": "B1869444-8A01-472E-8360-14A35F14A1EF"
+    },
+    {
+      "class": "group",
+      "id": "F847892C-31C8-4F29-B3AF-BD44AC37CC18"
+    },
+    {
+      "class": "group",
+      "id": "3197E979-0A85-4FD3-B3F0-E7CCB1FC4443"
+    },
+    {
+      "class": "group",
+      "id": "26552EE6-FD96-45C7-980F-90AC37628516"
+    },
+    {
+      "class": "group",
+      "id": "E8ABC652-CCAA-48DA-AF82-4E7D4B7CC517"
+    },
+    {
+      "class": "group",
+      "id": "384C7E5B-6491-4CDD-AFA8-437F1A6B0420"
+    },
+    {
+      "class": "group",
+      "id": "D3B01E97-4452-43B1-9F94-03CF87CB4657"
+    },
+    {
+      "class": "group",
+      "id": "08C7E4B2-7F2C-47B5-8E47-631F5E474A00"
+    },
+    {
+      "class": "group",
+      "id": "8EAE08A1-94A1-47F4-BB1E-79646F8F2938"
+    },
+    {
+      "class": "group",
+      "id": "FE895C76-789B-4E84-A2A2-390394CC46E0"
+    },
+    {
+      "class": "group",
+      "id": "1A2F6F25-9F7F-4D7E-873C-085EEDBE695C"
+    },
+    {
+      "class": "group",
+      "id": "F6BC2DA1-F22B-42B8-9832-A18AB9A0A0F7"
+    },
+    {
+      "class": "group",
+      "id": "678FA75E-6FCD-4562-BB55-A7C81584F4AD"
+    },
+    {
+      "class": "group",
+      "id": "3C75AEE8-399E-4431-AB2E-DA6D3EA01A32"
+    },
+    {
+      "class": "group",
+      "id": "4DC69FAE-B03E-496D-B32F-F42C426FFFEC"
+    },
+    {
+      "class": "group",
+      "id": "01FA8F78-542A-4E45-A16F-626EE3AF3140"
+    },
+    {
+      "class": "group",
+      "id": "0D8322D7-27AE-4952-AD5C-1A52423742F7"
+    },
+    {
+      "class": "group",
+      "id": "47A2F1D6-3F0F-481D-B24D-A7DAF3BF2ED1"
+    },
+    {
+      "class": "group",
+      "id": "7EC0F060-9181-42CB-A4E7-0F47A191F0E3"
+    },
+    {
+      "class": "group",
+      "id": "42F62AB7-6415-417A-B27F-C7FC89F81435"
+    },
+    {
+      "class": "group",
+      "id": "C88224BC-8B0B-4F57-A9C8-248A187E92B8"
+    },
+    {
+      "class": "group",
+      "id": "B7EB853F-8D62-433D-A50C-02C63720AF35"
+    },
+    {
+      "class": "group",
+      "id": "71A2C9F1-CB1A-43A1-A5B8-F0EC8B32B080"
+    },
+    {
+      "class": "group",
+      "id": "EF8E3CA8-84FC-40D0-8628-2F9477B732D3"
+    },
+    {
+      "class": "group",
+      "id": "C372FD51-DA24-480C-B772-44166C23FFB5"
+    }
+  ],
+  "name": "Keyboard/iPhone 6s/Light/Email-Lower",
+  "nameIsFixed": true,
+  "originalObjectID": "F2F47ECF-06AE-46D9-825E-A02548F08594",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "do_objectID": "46A44912-6C62-43B0-AC7C-ABAEBB9812ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 504,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "193CB585-1B65-4C85-843F-C7B59D03331A"
+    },
+    {
+      "class": "group",
+      "id": "EBDC1FF0-D2EA-4A97-9363-2859B5475CF6"
+    },
+    {
+      "class": "text",
+      "id": "D3198703-4976-4D36-8471-D78D33B9D2AB"
+    },
+    {
+      "class": "text",
+      "id": "5449B536-B26C-4033-AA64-F9BE54EE902A"
+    },
+    {
+      "class": "text",
+      "id": "B02184D8-A143-4702-89B1-4F26D2D455AB"
+    },
+    {
+      "class": "group",
+      "id": "3CD45233-EF01-456D-91D0-25814F2A7D31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6624B2D8-E7A4-403E-A4A8-B9F062EAAFA2"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": true,
+  "originalObjectID": "46A44912-6C62-43B0-AC7C-ABAEBB9812ED",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
