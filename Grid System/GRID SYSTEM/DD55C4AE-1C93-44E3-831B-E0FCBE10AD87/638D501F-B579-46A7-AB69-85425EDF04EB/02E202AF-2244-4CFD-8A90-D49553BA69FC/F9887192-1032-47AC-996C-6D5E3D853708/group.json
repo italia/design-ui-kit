@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F9887192-1032-47AC-996C-6D5E3D853708",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 2.927573062261786,
+    "x": 759.9999999999968,
+    "y": 7.75
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A32A3C33-3178-46AA-994C-3ED08412A04E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "257C6F62-74BF-496F-900D-A2CF7C3716E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D998F60-0D18-409D-BE31-FEE597B9483E"
+    }
+  ],
+  "name": "Chrome more menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "C84CD1E3-1745-48E5-A971-B70F9BE99C59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 3597,
+    "x": 6447,
+    "y": 4534
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FB851E7E-4E4C-4B91-A823-DB33D626236B"
+    },
+    {
+      "class": "text",
+      "id": "09DE6F8E-EE56-4942-B1DC-D6932541039C"
+    },
+    {
+      "class": "text",
+      "id": "9CD2C37D-4C6B-4843-B006-FF790706B1A8"
+    },
+    {
+      "class": "text",
+      "id": "FC2BF29E-AB58-4980-8E0F-ED79D0F26576"
+    },
+    {
+      "class": "text",
+      "id": "7FBF3EA9-21CF-4CF1-B5B7-9D33746310EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "669331AC-051E-48FE-8962-C90B1D451F79"
+    }
+  ],
+  "name": "label boot extra large",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

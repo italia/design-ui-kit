@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C1BD03FF-69C2-4F49-884A-06FC379CF840",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 5,
+    "x": 1266.666666666665,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77F05577-DD34-4CB4-897C-DD700D83213B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2887BC5A-A982-448E-9D80-369BAE1AA380"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEF8308A-44C9-4DAE-9A66-0F5AA9ACABBD"
+    }
+  ],
+  "name": "Chrome more menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
