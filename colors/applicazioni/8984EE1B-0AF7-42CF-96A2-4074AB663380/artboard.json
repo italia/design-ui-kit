@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3019607843137255,
+    "green": 0.1490196078431372,
+    "red": 0
+  },
+  "do_objectID": "8984EE1B-0AF7-42CF-96A2-4074AB663380",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 756,
+    "width": 765,
+    "x": 924,
+    "y": 2844
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D52A09D0-2A52-48A2-84CD-DA19DD2508A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "692C43C1-54DC-4B42-A4E8-E1BEFAA629FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F94BC5E1-44D6-4A30-BA61-C9C2DD35E2FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11EB27A2-E1B5-421A-ADBC-9394BF43A71C"
+    },
+    {
+      "class": "text",
+      "id": "70D0F4AB-2E60-4D54-A64C-4A6178FEDDAC"
+    },
+    {
+      "class": "text",
+      "id": "B0912E73-B109-4716-9AB3-68554502CE4A"
+    },
+    {
+      "class": "text",
+      "id": "E9F76327-5936-4CEE-92C8-F71B310EF4EA"
+    },
+    {
+      "class": "text",
+      "id": "B514D1AA-1D9D-437E-AE4B-40D4B9CB3AFF"
+    },
+    {
+      "class": "text",
+      "id": "348FE0C3-270F-4049-A189-05426E34447C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0CB6E31-FB36-4383-A0A3-769009C5BB13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "656CE900-C640-4551-9A0A-5AF8FB89CFCE"
+    },
+    {
+      "class": "text",
+      "id": "DB5BEC04-B2D1-4E59-84DC-516F955134AB"
+    },
+    {
+      "class": "text",
+      "id": "E8EAB787-6534-46EE-9609-6B0FFA2125F1"
+    }
+  ],
+  "name": "Desktop Copy 7",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
