@@ -1,4 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/italia/design-ui-kit.svg)](https://github.com/italia/design-ui-kit/issues)
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
@@ -21,7 +20,7 @@ Per utilizzare Bootstrap Italia all'interno del tuo progetto, è sufficiente sca
 
 Vuoi segnalare un bug o fare una richiesta?
 
-Dai un'occhiata a come [creare una issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue).
+Dai un'occhiata a come [creare una issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://developersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Developers Italia.
 
 ## Come contribuire
 
