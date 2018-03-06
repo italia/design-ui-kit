@@ -4,8 +4,6 @@
 # UI Kit
 Lo UI Kit contiene componenti di interfaccia per la realizzazione di prototipi e applicazioni destinate ai cittadini, e li mette a disposizione di tutti i designer che progettano servizi pubblici.
 
-![Image of ui-kit](https://github.com/italia/design-ui-kit/blob/master/Artboard.png)
-
 ## Indice
 
 - [Come iniziare](#come-iniziare)
