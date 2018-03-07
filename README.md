@@ -12,7 +12,16 @@ Lo UI Kit contiene componenti di interfaccia per la realizzazione di prototipi e
 
 ## Come iniziare
 
-Per utilizzare Bootstrap Italia all'interno del tuo progetto, è sufficiente scaricare i file sketch presenti in questo repository.
+Per utilizzare Lo UI Kit all'interno del tuo progetto, puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
+
+Segui queste [istruzioni per caricare e aggiornare la library dello UI Kit]
+
+Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository.
+
+Per lavorare sui file sketch, avrai bisogno di scaricare da Google font i seguenti typefaces:
+- [Titillium](https://fonts.google.com/specimen/Titillium+Web)
+- [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+
 
 ## Segnalazione bug e richieste di aiuto
 
