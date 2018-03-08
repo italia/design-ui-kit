@@ -14,7 +14,7 @@ Lo UI Kit contiene componenti di interfaccia per la realizzazione di prototipi e
 
 Per utilizzare Lo UI Kit all'interno del tuo progetto, puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
 
-Segui queste [istruzioni per caricare e aggiornare la library dello UI Kit]
+Segui queste [istruzioni per caricare e aggiornare la library dello UI Kit](INSTRUCTIONS/instructions.md)
 
 Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository.
 
