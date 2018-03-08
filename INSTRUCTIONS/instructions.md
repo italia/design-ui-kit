@@ -7,8 +7,8 @@ __Aggiungere la libreria__
 1. Segui questo link: ……………….
 se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
 1. Nella sezione documenti condivisi seleziona il documento che ti interessa e comparirà un pulsante che ti permette o di scaricare il file o di aggiungerlo come libreria a Sketch
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](protoUI/preferences.png)
+![Sketch Cloud](https://github.com/nikorobins/protoUI.git/cloud download.png)
+![Alt Text](protoUI/preferences.png)
 1. Cliccando su “Add library to Sketch” viene richiesta l’apertura automatica di Sketck e il file viene automaticamente aggiunto come libreria rpendendo il nome stesso del file. E’ possibile gestire le librerie dalle Preferences, ossia si possono attivare, disattivare o cancellare.
 
 __Aggiornare la libreria__
