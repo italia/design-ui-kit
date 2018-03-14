@@ -36,18 +36,19 @@ se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
 1. Cliccando su “Add library to Sketch” viene richiesta l’apertura automatica di Sketck e il file viene automaticamente aggiunto come libreria rpendendo il nome stesso del file. E’ possibile gestire le librerie dalle Preferences, ossia si possono attivare, disattivare o cancellare.
 
     <p align="left">
-    <img src="INSTRUCTIONS/loaded-library.png" width="250"/>
-    <img src="INSTRUCTIONS/preferences.png" width="350"/>
+    <img src="INSTRUCTIONS/added library.png" width="250"/>
+    <img src="INSTRUCTIONS/preferences2.png" width="350"/>
     </p>
 
 ### Aggiornare la libreria
 1. Se una libreria è stata modificata apparirà una notifica all’avvio di Sketch. Nel pannello delle preferenze sarà visibile un pulsante contestuale di download per scaricare gli aggiornamenti. 
 
-    <img src="update-library.png" width="250"/>
+    <img src="INSTRUCTIONS/preferences download.png" width="250"/>
 
 1. Per estendere l’aggiornamento della libreria a tutte le istanze di simboli utilizzate nel documento, basta cliccare nella notifica in alto a destra della finestra di Sketch. Puoi visualizzare le modifiche prima di accettare.
 
-    <img src="update-symbols.png" width="250"/>
+    <img src="INSTRUCTIONS/update-symbols.png" width="250"/>
+    <img src="INSTRUCTIONS/update symbol.png" width="250"/>
 
 
 Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository.
