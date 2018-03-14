@@ -1,10 +1,10 @@
-
- <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
- 
- [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
+[![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
 # UI Kit
+
+ <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
+ 
 Lo UI Kit è parte di un insieme di strumenti condivisi, i kit di design, che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
 L’obiettivo del Kit è quello di migliorare l’user experience dei servizi online attraverso la diffusione di uno stile consistente e coerente.
