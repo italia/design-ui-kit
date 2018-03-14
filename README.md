@@ -5,7 +5,7 @@
 
  <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
  
-Lo UI Kit è parte di un insieme di strumenti condivisi, i kit di design, che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
+Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
 L’obiettivo del Kit è quello di migliorare l’user experience dei servizi online attraverso la diffusione di uno stile consistente e coerente.
 
@@ -23,9 +23,9 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 ## Come iniziare
 
-Per utilizzare Lo UI Kit all'interno del tuo progetto, puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
+Per utilizzare lo UI Kit all'interno del tuo progetto, puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
 
-Le libraries di Sketch ti permettono di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le libraries dovessero essere modificate.
+Le librerie di Sketch ti permettono di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le libraries dovessero essere modificate.
 
 ### Aggiungere la libreria
 
@@ -35,7 +35,7 @@ se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
 
     <img src="INSTRUCTIONS/cloud-download.png" width="320">
   
-1. Cliccando su “Add library to Sketch” viene richiesta l’apertura automatica di Sketck e il file viene automaticamente aggiunto come libreria rpendendo il nome stesso del file. E’ possibile gestire le librerie dalle Preferences, ossia si possono attivare, disattivare o cancellare.
+1. Cliccando su “Add library to Sketch” il file viene automaticamente aggiunto come libreria che avrà il nome stesso del file. È possibile gestire le librerie dalle Preferences, ossia si possono attivare, disattivare o cancellare.
 
     <p align="left">
     <img src="INSTRUCTIONS/added library.png" width="250"/>
@@ -53,9 +53,9 @@ se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
     <img src="INSTRUCTIONS/update symbol.png" width="330"/>
 
 
-Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository.
+Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository e aggiungerli singolarmente come librerie per avere i componenti sempre a disposizione.
 
-Per lavorare sui file sketch, avrai bisogno di scaricare da Google font i seguenti typefaces:
+Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:
 - [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
