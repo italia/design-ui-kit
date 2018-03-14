@@ -48,7 +48,7 @@ se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
 1. Per estendere l’aggiornamento della libreria a tutte le istanze di simboli utilizzate nel documento, basta cliccare nella notifica in alto a destra della finestra di Sketch. Puoi visualizzare le modifiche prima di accettare.
 
     <img src="INSTRUCTIONS/update-symbols.png" width="250"/>
-    <img src="INSTRUCTIONS/update symbol.png" width="250"/>
+    <img src="INSTRUCTIONS/update symbol.png" width="330"/>
 
 
 Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository.
