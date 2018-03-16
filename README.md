@@ -1,6 +1,3 @@
-# UI KIT
-Questa libreria vuole mettere a disposizione di tutti i designer che progettano servizi pubblici, i componenti di interfaccia necessari per realizzare prototipi e applicazioni destinate ai cittadini.
-
-Il carattere tipografico dell'UI KIT è la famiglia di font [Titillium Web](https://fonts.google.com/specimen/Titillium+Web) distribuito con licenza Open Font da Google Fonts.
-
-![Image of ui-kit](https://github.com/italia/design-ui-kit/blob/master/Artboard.png)
+  # UI KIT WIP
+<img src="design-ui-kit/tool.png" width="200">
+In questo branch ci sono i file in lavorazione.
