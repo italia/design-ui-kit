@@ -29,13 +29,13 @@ Le librerie di Sketch ti permettono di avere a disposizione raccolte di simboli 
 
 ### Aggiungere la libreria
 
-1. Segui questo link: ……………….
+1. Segui questo link: https://sketch.cloud/s/Wdy8w
 se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
-1. Nella sezione documenti condivisi seleziona il documento che ti interessa e comparirà un pulsante che ti permette o di scaricare il file o di aggiungerlo come libreria a Sketch
+1. Nella sezione documenti condivisi upuoi scaricare il file o di aggiungerlo come libreria a Sketch
 
     <img src="INSTRUCTIONS/cloud-download.png" width="320">
   
-1. Cliccando su “Add library to Sketch” il file viene automaticamente aggiunto come libreria che avrà il nome stesso del file. È possibile gestire le librerie dalle Preferences, ossia si possono attivare, disattivare o cancellare.
+1. Cliccando su “Add library to Sketch” il file viene automaticamente aggiunto come libreria mantenendo il nome del file. È possibile gestire le librerie dalle Preferences: si possono attivare, disattivare o cancellare.
 
     <p align="left">
     <img src="INSTRUCTIONS/added library.png" width="250"/>
