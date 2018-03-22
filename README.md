@@ -23,15 +23,15 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 ## Come iniziare
 
-Per utilizzare lo UI Kit all'interno del tuo progetto, puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
+Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
 
-Le librerie di Sketch ti permettono di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le libraries dovessero essere modificate.
+Le librerie di Sketch ti permettono di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le librerie dovessero essere modificate.
 
 ### Aggiungere la libreria
 
 1. Segui questo link: https://sketch.cloud/s/Wdy8w
 se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
-1. Nella sezione documenti condivisi upuoi scaricare il file o di aggiungerlo come libreria a Sketch
+1. Nella sezione documenti condivisi puoi scaricare il file o aggiungerlo come libreria a Sketch
 
     <img src="INSTRUCTIONS/cloud-download.png" width="320">
   
@@ -43,7 +43,7 @@ se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
     </p>
 
 ### Aggiornare la libreria
-1. Se una libreria è stata modificata apparirà una notifica all’avvio di Sketch. Nel pannello delle preferenze sarà visibile un pulsante contestuale di download per scaricare gli aggiornamenti. 
+1. Se una libreria è stata modificata, apparirà una notifica all’avvio di Sketch. Nel pannello delle preferenze sarà visibile un pulsante contestuale di download per scaricare gli aggiornamenti. 
 
     <img src="INSTRUCTIONS/preferences download.png" width="250"/>
 
