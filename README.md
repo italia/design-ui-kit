@@ -30,7 +30,8 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come *library* di Sketch. 
 Questa funzionalità ti permette di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le librerie dovessero essere modificate.
-Per saperne di più, vai alle Sketch libraries Wiki 
+
+Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) 
 
 
 
