@@ -23,41 +23,19 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 ## Come iniziare
 
-Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come library di Sketch in modo da avere i componenti sempre aggiornati.
-
-Le librerie di Sketch ti permettono di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le librerie dovessero essere modificate.
-
-### Aggiungere la libreria
-
-1. Segui questo link: https://sketch.cloud/s/Wdy8w
-se non hai già un account, ti verrà chiesto di iscriverti a Sketch Cloud
-1. Nella sezione documenti condivisi puoi scaricare il file o aggiungerlo come libreria a Sketch
-
-    <img src="INSTRUCTIONS/cloud-download.png" width="320">
-  
-1. Cliccando su “Add library to Sketch” il file viene automaticamente aggiunto come libreria mantenendo il nome del file. È possibile gestire le librerie dalle Preferences: si possono attivare, disattivare o cancellare.
-
-    <p align="left">
-    <img src="INSTRUCTIONS/added library.png" width="250"/>
-    <img src="INSTRUCTIONS/preferences2.png" width="350"/>
-    </p>
-
-### Aggiornare la libreria
-1. Se una libreria è stata modificata, apparirà una notifica all’avvio di Sketch. Nel pannello delle preferenze sarà visibile un pulsante contestuale di download per scaricare gli aggiornamenti. 
-
-    <img src="INSTRUCTIONS/preferences download.png" width="250"/>
-
-1. Per estendere l’aggiornamento della libreria a tutte le istanze di simboli utilizzate nel documento, basta cliccare nella notifica in alto a destra della finestra di Sketch. Puoi visualizzare le modifiche prima di accettare.
-
-    <img src="INSTRUCTIONS/update-symbols.png" width="250"/>
-    <img src="INSTRUCTIONS/update symbol.png" width="330"/>
-
-
-Un altro modo per utilizzare lo UI kit è scaricare i file sketch presenti in questo repository e aggiungerli singolarmente come librerie per avere i componenti sempre a disposizione.
-
-Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:
+* Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:
 - [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+* Dal repo puoi scaricare il file *UI Kit master.schetch*, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
+* Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
+* Se hai scaricato l'UI Kit master, una volta aperto trovi gli stili e i componenti suddivisi in differenti *pages*
+* Controlla sempre se ci sono aggiornamenti del Kit: progressivamente vengono implementati i componenti esistenti ed aggiunti di nuovi.
+
+Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come library di Sketch. 
+Questa funzionalità ti permette di avere a disposizione raccolte di simboli che puoi usare in più file. Puoi inoltre tenere aggiornati i tuoi documenti nel caso in cui le librerie dovessero essere modificate.
+Leggi le Sketch libraries Wiki per saperne di più su come utilizzarle.
+
+
 
 
 ## Segnalazione bug e richieste di aiuto
