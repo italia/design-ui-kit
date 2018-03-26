@@ -24,7 +24,7 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 ## Come iniziare
 
 * Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web) e [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
-* Nel repo trovi il file *UI Kit master.schetch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
+* Nel repo trovi il file *italia-UI Kit.schetch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
 * Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
 * Ti consigliamo di controllare sempre se ci sono aggiornamenti del Kit: progressivamente vengono implementati i componenti esistenti ed aggiunti di nuovi.
 
