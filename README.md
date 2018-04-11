@@ -7,13 +7,15 @@
  
 Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
-L’obiettivo del Kit è quello di migliorare l’user experience dei servizi online attraverso la diffusione di uno stile consistente e coerente.
+L’obiettivo del kit è quello di migliorare l’user experience dei servizi online attraverso la diffusione di uno stile consistente e coerente.
 
 Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere insieme i layout di un prototipo e lo stiamo facendo seguendo una roadmap dove puoi vedere gli obiettivi dei prossimi mesi e lo stato avanzamento di tutto il kit:
 
 - [roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)
 
 È infatti un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili.
+
+Tutti i componenti sono realizzati in Sketch e puoi vederli in anteprima su [Invision](https://invis.io/RJFGS2UC3HS)
 
 ## Indice
 
