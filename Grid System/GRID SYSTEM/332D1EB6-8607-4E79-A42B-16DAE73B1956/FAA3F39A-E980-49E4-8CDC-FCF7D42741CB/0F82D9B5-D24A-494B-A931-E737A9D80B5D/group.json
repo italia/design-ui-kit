@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "0F82D9B5-D24A-494B-A931-E737A9D80B5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 1460,
+    "x": 0,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D50C1176-E2BB-4704-8381-D89437847CA9"
+    },
+    {
+      "class": "group",
+      "id": "1636CEED-3590-4F17-97AF-187C7DDF64CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89AB776C-CE7A-4E7F-BA9A-B0B3BEE6B818"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA36799E-E100-4CE4-BF85-B4C1C387E4D0"
+    },
+    {
+      "class": "text",
+      "id": "58CE02C0-DCE5-46E1-8DA9-256D49A9F896"
+    },
+    {
+      "class": "group",
+      "id": "713DB594-15FB-462B-A7A0-6063A259E24F"
+    }
+  ],
+  "name": "Address Bar & Container",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

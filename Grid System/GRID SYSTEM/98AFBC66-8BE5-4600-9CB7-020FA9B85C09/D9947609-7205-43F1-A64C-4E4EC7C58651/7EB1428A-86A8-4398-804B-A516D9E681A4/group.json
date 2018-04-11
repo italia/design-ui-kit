@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "7EB1428A-86A8-4398-804B-A516D9E681A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 600,
+    "x": 0,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6209BDE9-18C7-43B3-84C1-54559DCE3322"
+    },
+    {
+      "class": "group",
+      "id": "9E94A4B9-48D5-488F-8F5F-589EAAC0ECC3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5347E4BB-5766-4FAC-A063-DB1F48759F2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D3EFCCB-93E2-49AF-84BB-DD376DB5CBA0"
+    },
+    {
+      "class": "text",
+      "id": "0CDD40D4-133E-4926-8A21-2F69F2204995"
+    },
+    {
+      "class": "group",
+      "id": "712A1A64-8756-4367-8B30-893C6E273CF8"
+    }
+  ],
+  "name": "Address Bar & Container",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

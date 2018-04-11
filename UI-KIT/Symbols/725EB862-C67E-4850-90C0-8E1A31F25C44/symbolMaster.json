@@ -1,0 +1,90 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 6,
+  "do_objectID": "725EB862-C67E-4850-90C0-8E1A31F25C44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 375,
+    "x": 4500,
+    "y": 477
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD645A32-DDA4-4BED-A99A-8EB6D85B69E7"
+    },
+    {
+      "class": "group",
+      "id": "735BDD8B-A156-473F-912D-43C24E7EAD7B"
+    },
+    {
+      "class": "text",
+      "id": "46141257-F02E-40DE-9F5A-151517B02CB1"
+    },
+    {
+      "class": "group",
+      "id": "96677EF5-C0AE-46F1-8967-EDDD78B421EC"
+    }
+  ],
+  "name": "bar/status Bar/Black",
+  "nameIsFixed": true,
+  "originalObjectID": "725EB862-C67E-4850-90C0-8E1A31F25C44",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0774EB4-F339-4222-832F-E2EE3F5445BB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

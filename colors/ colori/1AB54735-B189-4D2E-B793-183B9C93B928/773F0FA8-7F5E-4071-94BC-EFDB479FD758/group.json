@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "773F0FA8-7F5E-4071-94BC-EFDB479FD758",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1093,
+    "width": 721,
+    "x": 1940,
+    "y": 4599
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E590EB71-5635-444A-B259-1A3EFE2B0603"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B9D5643-0FDD-4B69-A2F2-5DB1584EE13F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "306CD670-5EE4-4899-A775-91576DBE2756"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8481ACEA-B961-4F7D-8B6A-82AA91CD5C80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CE84C37-BEF4-400B-AFFE-B6DE1AA34E3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B222C6B-E161-48CC-8AC8-3CCD468BC19E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D24168F-02FE-4951-B622-F4775699609C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A565B933-0D46-4B10-9589-CAD3FD6CE4D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95190A31-E974-412D-A1E6-11B1CF5543A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39396280-BA4D-48F8-88F1-32ED6FDA59FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F30C2AD6-26B5-4AA3-9C44-AD9674A76DAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFEE0F55-A1E9-4B9F-9CF7-358DDE6F8905"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABE3B47A-1F5D-4854-97E2-EB87353C01A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "570C7757-018F-4F23-A24C-11FF8EDB56AB"
+    },
+    {
+      "class": "text",
+      "id": "B168FB87-0C2F-40A3-9523-24491F77F86B"
+    },
+    {
+      "class": "text",
+      "id": "0ECA4FD0-A1FA-4235-AC5F-F1DC31F98DB4"
+    }
+  ],
+  "name": "light_bg/secondary 159",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

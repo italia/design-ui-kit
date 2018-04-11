@@ -1,0 +1,101 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "90B77699-1C67-49FC-96B9-1ECA4AC44904",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 487,
+    "width": 808,
+    "x": -127,
+    "y": 1
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/379096c011ddba33690e1881225845730ee2c263",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Roma",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "originalObjectID": "90B77699-1C67-49FC-96B9-1ECA4AC44904",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/9d20c416ccf6171e3f94cdaf1c684eec673bc8ea",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 487,
+            "enabled": 1,
+            "modelID": "constraint_23ee9ed1-0a6e-4c54-9084-712d00a004bd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 808.2883
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3b8b9eeb-d405-48f1-aea6-de30e528d403",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Technology",
+        "icon": "diamond",
+        "index": 4,
+        "mode": "unsplash",
+        "title": "tecni"
+      }
+    }
+  }
+}

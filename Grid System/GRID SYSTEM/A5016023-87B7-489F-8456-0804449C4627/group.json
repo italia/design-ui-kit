@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "A5016023-87B7-489F-8456-0804449C4627",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2158,
+    "width": 911,
+    "x": -1206,
+    "y": 4003
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EB80C962-4FF5-436D-A6A1-8212A9A320D2"
+    },
+    {
+      "class": "text",
+      "id": "D96BCE16-190E-48FF-98CE-016F5E24DF1C"
+    }
+  ],
+  "name": "Label Grid System Bootstrap",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

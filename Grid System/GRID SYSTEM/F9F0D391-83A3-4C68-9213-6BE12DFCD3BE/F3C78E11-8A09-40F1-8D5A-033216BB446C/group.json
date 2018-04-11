@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "do_objectID": "F3C78E11-8A09-40F1-8D5A-033216BB446C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 561,
+    "width": 1184,
+    "x": 48,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42B53F70-7B66-4322-8766-F150EE2D85F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29F9C46A-5D3E-4FA6-973A-ABA155664857"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E7C0C49-BB08-4442-BF7D-F6AD4CE9146E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D45AD3AA-14E7-43B7-A36C-302FEC26F683"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F7784A8-422A-4F29-A7AF-622064C30A4E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB2E2D63-97E2-4295-A413-0D203DF1EF10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D9DBDA3-E6E2-433D-8974-B3047FB63BA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9FC8E4E-7399-448C-BB47-79C4E88FF7BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "018C13E6-82C2-432A-B573-502DF195CA63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F260FFF-92DE-445F-82B3-484F5AB45B7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D528562-69EC-4525-982B-1A58CAE51F19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC575EA2-B2D2-45B2-AE6F-459E9FD38412"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7CDB8F4-B3DE-421E-A569-9240A881E7B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20482439-A248-4973-8751-13FD8E5CEF60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "644D40A2-18F5-41C4-AA16-ED4CCE43EEE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB0656AA-0AB3-4368-8255-0284A8ED44C7"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.7
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

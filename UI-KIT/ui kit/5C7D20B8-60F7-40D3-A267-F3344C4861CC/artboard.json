@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "5C7D20B8-60F7-40D3-A267-F3344C4861CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1505,
+    "width": 375,
+    "x": 594,
+    "y": 730
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F25DAF32-8418-407C-BCAB-86FB0AC50694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18B4E912-542B-44FE-9EF5-B29C6C6CB550"
+    },
+    {
+      "class": "text",
+      "id": "D228AD26-56A6-4EBC-9F7E-E24894FA4B40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FD07172-3784-42C5-9BCE-DD7795410126"
+    },
+    {
+      "class": "group",
+      "id": "EDF54FD6-1D54-4C48-8F1B-9F67C02AAC57"
+    },
+    {
+      "class": "text",
+      "id": "DF3A8450-CDA2-413E-8585-1A1ACDC7954B"
+    },
+    {
+      "class": "text",
+      "id": "885A114F-9DBB-456F-8D36-2A6C3C75045A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13C8B44D-6217-48DD-B3B2-EFDAD5E44E20"
+    },
+    {
+      "class": "bitmap",
+      "id": "D566A3A2-F042-4B00-832C-244F9D387B8C"
+    },
+    {
+      "class": "text",
+      "id": "5DE27203-396E-4FFB-8A50-82B4F998B063"
+    },
+    {
+      "class": "text",
+      "id": "F638F2AC-350C-49DC-B2A3-FEF08F24FDE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DA7EFDB-ED19-498C-B3EE-2B88DC5FD197"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C87272A8-5983-4C81-A573-01F5CD39D708"
+    },
+    {
+      "class": "group",
+      "id": "5C76C220-264A-4D86-9A7D-ADBA05EC2E7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ADE9873-2682-40E2-A54A-BC96F3BC02EE"
+    },
+    {
+      "class": "group",
+      "id": "EC829EF2-9855-4D5C-B757-BBCA0BDF0EB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "810F3BDD-3B98-44EF-9C0F-03BF2AEAF997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43CED779-FC30-492B-9E5F-3002D747998C"
+    }
+  ],
+  "name": "layou cards exemple",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

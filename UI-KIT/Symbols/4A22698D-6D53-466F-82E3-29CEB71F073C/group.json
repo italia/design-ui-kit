@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "4A22698D-6D53-466F-82E3-29CEB71F073C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 3751,
+    "width": 147,
+    "x": -217,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FECABF0C-EB53-4BA4-9A9D-DF483E0B015E"
+    },
+    {
+      "class": "text",
+      "id": "81EBA403-C72E-4E00-B021-751A4FFE1B89"
+    },
+    {
+      "class": "text",
+      "id": "73DFF76C-A46C-4E93-98B8-A40B9C6DE7FD"
+    },
+    {
+      "class": "text",
+      "id": "58B3DC51-1A82-42EC-AD85-D44488CC515F"
+    },
+    {
+      "class": "text",
+      "id": "8B517915-CA64-457C-B793-8AEB4409D914"
+    },
+    {
+      "class": "text",
+      "id": "88CBC5BE-981B-48A6-98D1-469C2FDA8E25"
+    },
+    {
+      "class": "text",
+      "id": "CACE28B7-3424-427C-AA64-B37C06A3085D"
+    },
+    {
+      "class": "text",
+      "id": "9B84C6B6-3BFE-486E-B92B-37A0D0665D6F"
+    },
+    {
+      "class": "text",
+      "id": "50207E98-F481-48F7-9E46-0466AF6B8D5D"
+    },
+    {
+      "class": "text",
+      "id": "2CC2AA60-E69C-4072-B72E-453C83CAA350"
+    },
+    {
+      "class": "text",
+      "id": "CF0593A1-5EAE-4935-BE9E-2F1896247D6A"
+    },
+    {
+      "class": "text",
+      "id": "7C931E3D-A551-4237-A238-CB63F74BD189"
+    },
+    {
+      "class": "text",
+      "id": "00679BA3-E8A4-4D19-BC0B-E49C070896E6"
+    },
+    {
+      "class": "text",
+      "id": "37BEC9B6-F8E8-441E-94CD-8E06C9656FAB"
+    },
+    {
+      "class": "text",
+      "id": "352726B1-EE1B-4375-8C2D-B48F0CEF1B9F"
+    },
+    {
+      "class": "text",
+      "id": "252531CB-D470-4C19-B752-6050B9542EE8"
+    },
+    {
+      "class": "text",
+      "id": "7EB6AE12-0826-4640-9BAD-B5B2E24967A0"
+    },
+    {
+      "class": "text",
+      "id": "8D3B57DA-7B83-4160-868B-76C61D61B912"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

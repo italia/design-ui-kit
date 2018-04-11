@@ -1,0 +1,101 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A849E889-5C4B-4B73-A467-228A529BA4F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 489,
+    "width": 734,
+    "x": -143,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ecfb59c0bb7eb7ac6abb41a2873432a70380d59f",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "foto",
+  "nameIsFixed": true,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "originalObjectID": "A849E889-5C4B-4B73-A467-228A529BA4F4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/0ada7151598a3fb4526bb5890727aa1eff25aa8f",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 489,
+            "enabled": 1,
+            "modelID": "constraint_a172c1ed-0e18-4c6c-838f-c93cf634f800",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 734
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6aca9662-e093-45e5-85e4-b5c5f6840196",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "City",
+        "icon": "sun",
+        "index": 3,
+        "mode": "unsplash",
+        "title": "city"
+      }
+    }
+  }
+}

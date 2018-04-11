@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D05D151C-FE9C-43CF-9CE8-267A30994B9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 57,
+    "width": 57,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "loghi/stellone",
+  "nameIsFixed": false,
+  "originalObjectID": "D05D151C-FE9C-43CF-9CE8-267A30994B9E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "813B35AB-6601-4B2E-AEC0-5DD1E768FDFE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 57,
+            "enabled": 1,
+            "modelID": "constraint_bcc8408b-15d5-4132-a8dd-06b1a076f733",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 57
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0cfc729e-ba7b-4490-b51c-934fd67b9ff8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

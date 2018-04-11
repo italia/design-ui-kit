@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "2715B746-2EE2-432A-80BB-3434200178D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 539,
+    "width": 320,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD0B06A1-75CF-48F1-834F-E157D90B697B"
+    },
+    {
+      "class": "group",
+      "id": "BBC278EB-21A9-4B7B-B1F6-49F8C2AB28D5"
+    },
+    {
+      "class": "group",
+      "id": "D81E1C92-E0D5-49B6-8708-3CD8B7900185"
+    },
+    {
+      "class": "group",
+      "id": "FAE1CBFA-14CE-44FC-B31F-932AFA5A8E83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CF2661E-4DE9-4AE6-99FD-01ED8B709F70"
+    }
+  ],
+  "name": "Nav Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

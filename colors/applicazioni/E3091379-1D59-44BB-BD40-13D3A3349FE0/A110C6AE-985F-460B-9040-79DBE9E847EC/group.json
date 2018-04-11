@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A110C6AE-985F-460B-9040-79DBE9E847EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1131,
+    "width": 1691,
+    "x": 165,
+    "y": 137
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "24446443-1B9B-4579-8E28-253645990F18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32D1E8EE-5741-44A8-AB18-52519EFBFB7E"
+    }
+  ],
+  "name": "Oval 5 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

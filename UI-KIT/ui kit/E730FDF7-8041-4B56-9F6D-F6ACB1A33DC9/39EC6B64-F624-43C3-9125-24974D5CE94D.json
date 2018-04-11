@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "39EC6B64-F624-43C3-9125-24974D5CE94D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 190,
+    "x": 302,
+    "y": 937
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 20,
+  "masterInfluenceEdgeMaxYPadding": 30,
+  "masterInfluenceEdgeMinXPadding": 20,
+  "masterInfluenceEdgeMinYPadding": 10,
+  "name": "button/primary/icon-right txt fisso copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "9641E4C2-3915-4EBE-8B0D-827062645277": {
+      "symbolID": ""
+    },
+    "B7F820F5-4F63-4F44-9CCE-9FB668273278": {
+      "EF71980F-A4C2-46DF-B52A-F0B041EDE489": {
+        "symbolID": "DD03B22C-32A9-4698-A20B-F9704205F459"
+      }
+    },
+    "DFBCA701-0DD1-4EFA-9025-052AE1D7D1BA": "HOVER",
+    "F2B572D1-25D7-4C49-9261-DD9F9CFD9789": {
+      "symbolID": "FB627B82-6BB7-4B4D-A494-C18A79B820FF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AE3B17E0-08CF-4802-B577-25D8C957284D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

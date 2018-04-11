@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "11F000E3-32BD-4D66-A37C-45A3E207D41F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 106,
+    "x": 1778,
+    "y": 594
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC54E0A1-8F77-43FA-9050-E647500B9C00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDE1FD14-5C48-4009-A827-373C7880E727"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB36D950-C263-4BA0-869D-FCD6E0BF88F9"
+    },
+    {
+      "class": "text",
+      "id": "22A95DDC-7A93-4866-B6DD-CB7A8DF34FDE"
+    },
+    {
+      "class": "text",
+      "id": "E830615F-176B-49F4-8340-DFB41896D139"
+    },
+    {
+      "class": "text",
+      "id": "D89427DF-29DB-4A44-B02F-A1562B969DAF"
+    }
+  ],
+  "name": "ui vertical basic buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
