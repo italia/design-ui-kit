@@ -22,7 +22,7 @@ L'[issue tracker](https://github.com/italia/design-ui-kit/issues) è una sezione
 
 - Allo stesso modo, per favore **non** provocare gli altri o "trollare" nei commenti alle issue.
   Mantenere la discussione pertinente e rispettare le opinioni di tutti. Per confronti o questioni più articolate,
-  è sempre auspicabile usare [Slack di Designers Italia](https://slack.designers.italia.it/) o il [Forum di Designers Italia](https://forum.italia.it/c/design/user-interface).
+  è sempre auspicabile usare [Slack di Developers Italia](https://slack.developers.italia.it/) o nella [sezione User Interface del Forum](https://forum.italia.it/c/design/user-interface).
 
 ## Licenza
 
