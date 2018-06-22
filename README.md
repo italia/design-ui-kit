@@ -13,7 +13,7 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 - [roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)
 
-Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
+:eyes: Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
 
 ## Indice
 
@@ -21,7 +21,7 @@ Il kit è un progetto aperto e in continua evoluzione non solo per i componenti 
 - [Segnalazione bug e richieste](#segnalazione-bug-e-richieste-di-aiuto)
 - [Come contribuire](#come-contribuire)
 
-## Come iniziare
+ ## :blue_book: Come iniziare
 
 * Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web) e [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 * Nel repo trovi il file *italia-UI Kit.schetch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
@@ -36,13 +36,13 @@ Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/
 
 
 
-## Segnalazione bug e richieste di aiuto
+## :wrench: Segnalazione bug e richieste di aiuto
 
 Vuoi segnalare un bug o fare una richiesta?
 
 Dai un'occhiata a come [creare una issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Deigners Italia.
 
-## Come contribuire
+## :sparkles: Come contribuire
 
 Vorresti dare una mano sullo UI Kit? **Sei nel posto giusto!**
  
