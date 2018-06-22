@@ -13,7 +13,7 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
 - [roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)
 
-È infatti un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili.
+Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
 
 ## Indice
 
