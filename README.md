@@ -33,7 +33,7 @@ Questa funzionalità ti permette di avere a disposizione raccolte di simboli che
 
 Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) 
 
-Non hai Sketch? Puoi importare il file in un altro tool di prototipazione come [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio) o [Adobe XD](https://www.adobe.com/uk/products/xd.html), oppure installare [Lunacy](https://icons8.it/lunacy) per utilizzare Sketch su Windows.   
+**Non hai Sketch?** Puoi importare il file in un altro tool di prototipazione come [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio) o [Adobe XD](https://www.adobe.com/uk/products/xd.html), oppure installare [Lunacy](https://icons8.it/lunacy) per utilizzare Sketch su Windows.   
 
 
 
