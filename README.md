@@ -23,8 +23,10 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
  ## :blue_book: Come iniziare
 
-* Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web) e [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
-* Nel repo trovi il file *italia-UI Kit.sketch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
+
+* Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), e [Lora](https://fonts.google.com/specimen/Lora).
+* Nel repo trovi il file *italia-UI Kit 2.0.schetch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
+
 * Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
 * Ti consigliamo di controllare sempre se ci sono aggiornamenti del Kit: progressivamente vengono implementati i componenti esistenti ed aggiunti di nuovi.
 
@@ -33,6 +35,7 @@ Questa funzionalità ti permette di avere a disposizione raccolte di simboli che
 
 Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) 
 
+**Non hai Sketch?** Puoi importare il file in un altro tool di prototipazione come [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio) o [Adobe XD](https://www.adobe.com/uk/products/xd.html), oppure installare [Lunacy](https://icons8.it/lunacy) per utilizzare Sketch su Windows.   
 
 
 
