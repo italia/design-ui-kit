@@ -23,8 +23,10 @@ Abbiamo iniziato a disegnare una libreria di componenti base per poter mettere i
 
  ## :blue_book: Come iniziare
 
+
 * Per lavorare sui file sketch, avrai bisogno di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), e [Lora](https://fonts.google.com/specimen/Lora).
 * Nel repo trovi il file *italia-UI Kit 2.0.schetch* che include tutti i componenti realizzati fin'ora, oppure, se hai bisogno di specifici componenti, puoi scaricare solo i file che ti interessano. 
+
 * Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
 * Ti consigliamo di controllare sempre se ci sono aggiornamenti del Kit: progressivamente vengono implementati i componenti esistenti ed aggiunti di nuovi.
 
