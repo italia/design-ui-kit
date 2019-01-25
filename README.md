@@ -11,13 +11,13 @@ L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e compone
 
 :dart: L’obiettivo è quello di migliorare l’user experience dei servizi online della pubblica amministrazione italiana attraverso la diffusione di uno stile consistente e coerente.
 
-Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) abbiamo costruito prima il design dei componenti e poi li abbiamo tradotti in codice alimentando la libreria [Bootstrap Italia](https://italia.github.io/bootstrap-italia/) 
+Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) abbiamo costruito prima il design dei componenti e poi li abbiamo tradotti in codice alimentando la libreria [Bootstrap Italia](https://italia.github.io/bootstrap-italia/).
 
-:eyes: Se vuoi vedere tutti gli assets prima di scaricarli, vai al progetto [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS)  
+:eyes: Se vuoi vedere tutti gli assets prima di scaricarli, vai al progetto [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS).
   
-:star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro *Italia-Ui Kit.sketch*, oppure in un file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) e in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/blob/development/Icon%20pack%20in%20svg.zip). 
+:star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro *Italia-Ui Kit.sketch*, oppure nel file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) o in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/blob/development/Icon%20pack%20in%20svg.zip). 
 
-**Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici utilizzi i componenti dello UI Kit. 
+**Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici casi i componenti dello UI Kit. 
 
 
 ## Indice
