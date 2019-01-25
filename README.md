@@ -17,7 +17,7 @@ Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets
   
 :star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro *Italia-Ui Kit.sketch*, oppure in un file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) e in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/blob/development/Icon%20pack%20in%20svg.zip). 
 
-**Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici utilizzi i componenti dello UI Kit. 
+**Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici casi i componenti dello UI Kit. 
 
 
 ## Indice
