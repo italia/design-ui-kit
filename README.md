@@ -7,16 +7,18 @@
  
 Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
-:dart: L’obiettivo del Kit è quello di migliorare l’user experience dei servizi online attraverso la diffusione di uno stile consistente e coerente.
+L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e componenti (bottoni, input field, menu etc) utili a costruire prototipi di siti web e applicazioni. È stata costruita seguendo le [Linee Guida di design per i siti web della pubblica amministrazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/)   
 
-L'Italia-Ui Kit è un insieme di stili e componenti che servono per costruire i layout di un prototipo.  Lo abbiamo costruito seguento un inventario e una roadmap:
+:dart: L’obiettivo è quello di migliorare l’user experience dei servizi online della pubblica amministrazione italiana attraverso la diffusione di uno stile consistente e coerente.
 
-- [roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)
+Abbiamo creato [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)dei component che facesse da guida per costruire il design prima e la traduzione in codice poi che andasse a popolare la libreria[Bootstrap Italia](https://italia.github.io/bootstrap-italia/) 
 
-Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. 
-:eyes: Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
+:eyes: Se vuoi vedere tutti gli assets prima di scaricarli, vai al progetto [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS)  
+  
+:star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro *Italia-Ui Kit.sketch*, oppure in un file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) e in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/blob/development/Icon%20pack%20in%20svg.zip). 
 
-:star: In questo repo trovi anche un pacchetto di icone disponibile sia all'interno del file mastro *Italia-Ui Kit.sketch*, sia in un file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) che in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/tree/master/Icon%20pack%20in%20svg). 
+**Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici utilizzi i componenti dello UI Kit. 
+
 
 ## Indice
 
@@ -26,8 +28,7 @@ Il kit è un progetto aperto e in continua evoluzione non solo per i componenti 
 
  ## :blue_book: Come iniziare
 
-
-* Il kit è un file Sketch, prima di aprirlo consigliamo di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), e [Lora](https://fonts.google.com/specimen/Lora).
+* Il kit è un file Sketch, prima di aprirlo ti consigliamo di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), e [Lora](https://fonts.google.com/specimen/Lora).
 * Nel repo trovi il file *italia-UI Kit.schetch* che include componenti e stili in un unico file, ma se hai bisogno solo di specifici componenti, puoi scaricare dalla cartella *Components* anche solo quello che ti interessa. 
 
 * Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
@@ -36,8 +37,7 @@ Questa funzionalità ti permette di avere a disposizione raccolte di simboli che
 
 Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) 
 
-* Ti consigliamo di controllare periodicamente se ci sono aggiornamenti del Kit: i componenti esistenti vengono implementati ed aggiunti di nuovi. Per tenere la libreria aggiornata sarà necessario scaricare di nuovo il file da questo repo e sovrascriverlo alla copia che hai in locale.
-
+Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. Ti consigliamo quindi di controllare periodicamente se ci sono aggiornamenti del Kit: i componenti esistenti vengono implementati ed aggiunti di nuovi. Per tenere la libreria aggiornata sarà necessario scaricare di nuovo il file da questo repo e sovrascriverlo alla copia che hai in locale.
 
 **Non hai Sketch?** Puoi importare il file in un altro tool di prototipazione come [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio) o [Adobe XD](https://www.adobe.com/uk/products/xd.html), oppure installare [Lunacy](https://icons8.it/lunacy) per utilizzare Sketch su Windows.   
 
