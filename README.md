@@ -7,11 +7,11 @@
  
 Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
-L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e componenti (bottoni, input field, menu etc) utili a costruire prototipi di siti web e applicazioni. È stata costruita seguendo le [Linee Guida di design per i siti web della pubblica amministrazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/)   
+L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e componenti (bottoni, input field, menu etc) utili a costruire prototipi di siti web e applicazioni. È stata costruita seguendo le [Linee Guida di design per i siti web della pubblica amministrazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).  
 
 :dart: L’obiettivo è quello di migliorare l’user experience dei servizi online della pubblica amministrazione italiana attraverso la diffusione di uno stile consistente e coerente.
 
-Abbiamo creato [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)dei component che facesse da guida per costruire il design prima e la traduzione in codice poi che andasse a popolare la libreria[Bootstrap Italia](https://italia.github.io/bootstrap-italia/) 
+Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) abbiamo costruito prima il design dei componenti e poi li abbiamo tradotti in codice alimentando la libreria [Bootstrap Italia](https://italia.github.io/bootstrap-italia/) 
 
 :eyes: Se vuoi vedere tutti gli assets prima di scaricarli, vai al progetto [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS)  
   
