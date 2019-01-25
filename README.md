@@ -13,7 +13,10 @@ L'Italia-Ui Kit è un insieme di stili e componenti che servono per costruire i 
 
 - [roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0)
 
-:eyes: Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
+Il kit è un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili. 
+:eyes: Puoi vedere gli assets (palette, griglie,tipografia,componenti) anche nel progetto Invision [design-ui-kit](https://invis.io/RJFGS2UC3HS)    
+
+:star: In questo repo trovi anche un pacchetto di icone disponibile sia all'interno del file mastro *Italia-Ui Kit.sketch*, sia in un file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) che in svg [*Icon pack in svg*](https://github.com/italia/design-ui-kit/tree/master/Icon%20pack%20in%20svg). 
 
 ## Indice
 
@@ -35,7 +38,6 @@ Per saperne di più, vai alle [Sketch libraries Wiki](https://github.com/italia/
 
 * Ti consigliamo di controllare periodicamente se ci sono aggiornamenti del Kit: i componenti esistenti vengono implementati ed aggiunti di nuovi. Per tenere la libreria aggiornata sarà necessario scaricare di nuovo il file da questo repo e sovrascriverlo alla copia che hai in locale.
 
-:star: È disponibile anche un pacchetto di icone, gia incluso nel file *Italia-Ui Kit.sketch*, ma se ti serve singolarmente puoi scaricare [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) oppure la cartella [*Icon pack in svg*](https://github.com/italia/design-ui-kit/tree/master/Icon%20pack%20in%20svg). 
 
 **Non hai Sketch?** Puoi importare il file in un altro tool di prototipazione come [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio) o [Adobe XD](https://www.adobe.com/uk/products/xd.html), oppure installare [Lunacy](https://icons8.it/lunacy) per utilizzare Sketch su Windows.   
 
