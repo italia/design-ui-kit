@@ -28,14 +28,14 @@ Based on [an inventory and a roadmap](https://docs.google.com/spreadsheets/d/183
 
 ## Getting started
 
-* The kit is a Sketch file, before opening it we suggest you download the following typefaces from Google Font: [Titillium] (https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono] (https: //fonts.google.com/specimen/Roboto+Mono), and [Lora] (https://fonts.google.com/specimen/Lora).
+* The kit is a Sketch file, before opening it we suggest you download the following typefaces from Google Font: [Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), and [Lora](https://fonts.google.com/specimen/Lora).
 * In the repo you find the *italia-UI Kit.schetch* file that includes components and styles in a single file, but if you need only specific components, you can download only the one that interests you from the *Components* folder.
 * To open the Kit correctly make sure you have the latest version of Sketch.
 
 To use the UI Kit within your project you can upload it directly as Sketch *library*.
 This feature allows you to have collections of symbols that you can use in multiple files. You can also keep your documents up-to-date if the libraries are to be changed.
 
-To learn more, go to [Sketchbook Wiki] (https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries)
+To learn more, go to [Sketchbook Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries)
 
 The kit is an open and constantly evolving project not only for components yet to be implemented but also for the implementation of already downloadable files. We therefore recommend checking periodically if there are any updates to the Kit: existing components are implemented and new ones added. To keep the library updated you will need to download the file again from this repo and overwrite it with the copy you have locally.
 
