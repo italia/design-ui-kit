@@ -1,6 +1,8 @@
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
+*Read this in other languages: [English](README.EN.md).*
+
 # UI Kit
 
  <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
