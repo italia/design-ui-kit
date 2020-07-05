@@ -31,7 +31,7 @@ Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets
  ## :blue_book: Come iniziare
 
 * Il kit è un file Sketch, prima di aprirlo ti consigliamo di scaricare da Google Font i seguenti typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), e [Lora](https://fonts.google.com/specimen/Lora).
-* Nel repo trovi il file *italia-UI Kit.schetch* che include componenti e stili in un unico file, ma se hai bisogno solo di specifici componenti, puoi scaricare dalla cartella *Components* anche solo quello che ti interessa. 
+* Nel repo trovi il file *italia-UI Kit.sketch* che include componenti e stili in un unico file, ma se hai bisogno solo di specifici componenti, puoi scaricare dalla cartella *Components* anche solo quello che ti interessa. 
 
 * Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
 Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come *library* di Sketch. 
