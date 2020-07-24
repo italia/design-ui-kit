@@ -5,17 +5,21 @@
 
 <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
 
-The UI Kit is part of a set of shared tools, the [design kits](https://designers.italia.it/kit/), which are used to design and implement digital services for citizens.
+The UI Kit is part of a set of shared tools, the [design kits](https://designers.italia.it/kit/), which are used to design and implement digital services for citizens. It is available as a Sketch file [*italia UI Kit 2.0.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia UI Kit 2.0.sketch) that you can use with the "add as a library" function in Stech, or even by importing it into Figma by dragging the Sketch file onto the main screen.
 
-It is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration websites](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
+The UI Kit is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration websites](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
+
+:eyes: If you want to check all the assets before downloading them, you can browse them:
+
+* on [Invision](https://invis.io/RJFGS2UC3HS)
+* on [Sketch Cloud](https://www.sketch.com/s/648c8559-bac6-49c6-88dc-2ef016968fdf)
+* on [Figma](https://www.figma.com/file/bLexfydXWzF6ACxFokgzXs/italia-UI-Kit-2.0?node-id=0%3A1)
 
 :dart: The goal is to improve the user experience of online services of the Italian public administration through the diffusion of a consistent and consistent style.
 
 Based on [an inventory and a roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) we first built the component design and then translated them into code by feeding the library [Bootstrap Italia](https://italia.github.io/bootstrap-italia/).
-
-:eyes: If you want to see all the assets before downloading them, go to the [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS) project .
   
-:star: In this repo you also find a package of icons, available in the mastro *Italia-Ui Kit.sketch* file, or in the independent file [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia-icons.sketch) or with SVG [*Icon pack*](https://github.com/italia/design-ui-kit/blob/development/Icon%20pack%20in%20svg.zip).
+:star: In this repo you also find a package for icons in the file [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/icons/italia-icons.sketch) or [*download them as SVG*](https://github.com/italia/design-ui-kit/tree/master/icons/italia_icons_svg).
 
 **An example of the use of the UI Kit** is the [prototype of the Italian Municipalities website](https://github.com/italia/design-comuni-prototipi). The layout was created using and adapting the components of the UI Kit to specific cases.
 
