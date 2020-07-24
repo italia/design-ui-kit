@@ -1,5 +1,4 @@
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
-[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
 *Read this in other languages: [English](README.EN.md).*
 
@@ -7,7 +6,7 @@
 
  <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
  
-Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
+Lo UI Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. È disponibile come file Sketch [*italia UI Kit 2.0.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia UI Kit 2.0.sketch), oppure su [Sketch Cloud](https://www.sketch.com/s/648c8559-bac6-49c6-88dc-2ef016968fdf). È utilizzabile anche attraverso la funzione "aggiungi come libreria" di Sketch o si può importare su Figma semplicemente trascinando il file Sketch nella schermata principale.
 
 L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e componenti (bottoni, input field, menu etc) utili a costruire prototipi di siti web e applicazioni. È stata costruita seguendo le [Linee Guida di design per i siti web della pubblica amministrazione](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).  
 
@@ -15,9 +14,13 @@ L'Italia-Ui Kit è una libreria di stili (colori, tipografia, griglie) e compone
 
 Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) abbiamo costruito prima il design dei componenti e poi li abbiamo tradotti in codice alimentando la libreria [Bootstrap Italia](https://italia.github.io/bootstrap-italia/).
 
-:eyes: Se vuoi vedere tutti gli assets prima di scaricarli, vai al progetto [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS).
+:eyes: Se vuoi vedere tutti gli assets prima di scaricarli, puoi andare al progetto:
+
+* su [Invision design-ui-kit](https://invis.io/RJFGS2UC3HS)
+* su [Sketch Cloud](https://www.sketch.com/s/648c8559-bac6-49c6-88dc-2ef016968fdf)
+* su [Figma](https://www.figma.com/file/bLexfydXWzF6ACxFokgzXs/italia-UI-Kit-2.0?node-id=0%3A1)
   
-:star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro *italia UI Kit 2.0.sketch*, oppure nel file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/icons/italia-icons.sketch). 
+:star: In questo repo trovi anche un pacchetto di icone, disponibile all'interno del file mastro, oppure nel file indipendente [*italia-icons.sketch*](https://github.com/italia/design-ui-kit/blob/master/icons/italia-icons.sketch).
 
 **Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici casi i componenti dello UI Kit. 
 
