@@ -5,9 +5,9 @@
 
 <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
 
-The UI Kit is part of a set of shared tools, the [design kits](https://designers.italia.it/kit/), which are used to design and implement digital services for citizens. It is available as a Sketch file [*italia UI Kit 2.0.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia UI Kit 2.0.sketch) that you can use with the "add as a library" function in Stech, or even by importing it into Figma by dragging the Sketch file onto the main screen.
+The UI Kit is part of a set of shared tools, the [design kits](https://designers.italia.it/kit/), which are used to design and implement digital services for citizens. It is available as a Sketch file [*italia UI Kit 2.0.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia%20UI%20Kit%202.0.sketch) that you can use with the "add as a library" function in Sketch, or even by importing it into Figma by dragging the Sketch file onto the main screen.
 
-The UI Kit is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration websites](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
+The UI Kit is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration services](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
 
 :eyes: If you want to check all the assets before downloading them, you can browse them:
 
