@@ -7,7 +7,7 @@
 
 The UI Kit is part of a set of shared tools, the [design kits](https://designers.italia.it/kit/), which are used to design and implement digital services for citizens. It is available as a Sketch file [*italia UI Kit 2.0.sketch*](https://github.com/italia/design-ui-kit/blob/master/italia%20UI%20Kit%202.0.sketch) that you can use with the "add as a library" function in Sketch, or even by importing it into Figma by dragging the Sketch file onto the main screen.
 
-The UI Kit is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration services](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
+The UI Kit is a library of styles (colors, typography, grids) and components (buttons, input fields, menus etc) useful for building prototypes of websites and applications. It was built following the [Guidelines for the design of public administration digital services](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/).
 
 :eyes: If you want to check all the assets before downloading them, you can browse them:
 
@@ -15,7 +15,7 @@ The UI Kit is a library of styles (colors, typography, grids) and components (bu
 * on [Sketch Cloud](https://www.sketch.com/s/648c8559-bac6-49c6-88dc-2ef016968fdf)
 * on [Figma](https://www.figma.com/file/bLexfydXWzF6ACxFokgzXs/italia-UI-Kit-2.0?node-id=0%3A1)
 
-:dart: The goal is to improve the user experience of online services of the Italian public administration through the diffusion of a consistent and consistent style.
+:dart: The goal is to improve the user experience of digital services of the Italian public administration through the diffusion of a consistent and consistent style.
 
 Based on [an inventory and a roadmap](https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0) we first built the component design and then translated them into code by feeding the library [Bootstrap Italia](https://italia.github.io/bootstrap-italia/).
   
@@ -56,5 +56,5 @@ Take a look at how to [create an issue](https://github.com/italia/design-ui-kit/
 Would you like to help out with the UI Kit? **You're in the right place**
  
 If you have not already done so, start by spending a few minutes to deepen your knowledge on
-[design guidelines for the PA web services](https://design-italia.readthedocs.io/it/stable/index.html),
+[design guidelines for the PA digital services](https://design-italia.readthedocs.io/it/stable/index.html),
 and refer to the [directions on contributing to the UI Kit](CONTRIBUTING.md).
