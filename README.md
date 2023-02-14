@@ -1,3 +1,8 @@
+# 🛠️ Repository in aggiornamento 🚧 
+Ospiterà entro Q2 2023 le versioni Figma e Sketch del nuovo [UI Kit v3](https://figma.com/@designersitalia) del [design system del Paese](https://prossima.designers.italia.it/design-system).  
+
+----
+
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 
 *Read this in other languages: [English](README.EN.md).*
