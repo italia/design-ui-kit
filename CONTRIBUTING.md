@@ -1,8 +1,3 @@
-# 🛠️ Repository in aggiornamento 🚧 
-Ospiterà entro Q2 2023 le versioni Figma e Sketch del nuovo [UI Kit v3](https://figma.com/@designersitalia) del [design system del Paese](https://prossima.designers.italia.it/design-system). 
-
------
-
 # Contribuire allo UI Kit
 
 Prenditi un momento per leggere questo documento così da rendere il processo semplice e consistente con quello utilizzato

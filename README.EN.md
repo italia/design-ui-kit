@@ -1,8 +1,3 @@
-# 🛠️ Repository being updated 🚧
-By Q2 2023, it will host the Figma and Sketch versions of the new [UI Kit v3](https://figma.com/@designersitalia) of the [gov design system of Italy](https://prossima.designers.italia.it/design-system).
-
-----
-
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
