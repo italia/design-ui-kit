@@ -6,7 +6,7 @@ Questo è un branch temporaneo, da considerare di lavorazione e con materiali so
 
 Questa repository ospita: 
 
-- il salvataggio dello UI Kit v3 nel suo formato nativo Figma (.fig), disponibile anche attraverso la [pagina community del progetto Designers Italia](figma.com/@designersitalia/), dove è possibile vedere l'anteprima, e, contribuire ai lavori in corso commentando l'intero kit o parti specifiche; 
+- il salvataggio dello UI Kit v3 nel suo formato nativo Figma (.fig), disponibile anche attraverso la [pagina community del progetto Designers Italia](https://figma.com/@designersitalia/), dove è possibile vedere l'anteprima, e, contribuire ai lavori in corso commentando l'intero kit o parti specifiche; 
 
 - la conversione nel [formato aperto Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata utilizzando la versione corrente del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di testing, alcune funzionalità potrebbero non essere presenti e/o non corrette; 
 
