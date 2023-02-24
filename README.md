@@ -2,7 +2,7 @@
 
 -----
 
-Questo è un branch temporaneo, da considerare di lavorazione e con materiali soggeti a cambi senza preavviso. È usato per preparare la presente repository a ospitare la v3 dello UI Kit, versione corrente, del [design system del Paese](https://prossima.designers.italia.it/design-system/come-iniziare/per-designer). 
+Questo è un branch temporaneo, da considerare di lavorazione e con materiali soggetti a cambi senza preavviso. È usato per preparare la presente repository a ospitare la v3 dello UI Kit, versione corrente, del [design system del Paese](https://prossima.designers.italia.it/design-system/come-iniziare/per-designer). 
 
 Questa repository ospita: 
 
