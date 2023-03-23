@@ -1,0 +1,16 @@
+on:
+  push: [next-ui-kit-v3]
+
+jobs:
+  spectral:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+
+      - run: pip install fig2sketch[fast]
+      - run: python src/fig2sketch.py --force-convert-images --compress Italia-UI-Kit.fig design-system-italia.sketch
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: design-system-italia.sketch
