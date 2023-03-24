@@ -15,11 +15,11 @@ jobs:
       - run: pip install fig2sketch[fast]
       - run: pip install certifi
 
-      - run: fig2sketch --force-convert-images --compress Italia-UI-Kit.fig design-system-italia.sketch
+      - run: fig2sketch --force-convert-images --compress Italia-UI-Kit.fig Italia-UI-Kit.sketch
 
       - uses: EndBug/add-and-commit@v9
         with:
-          add: design-system-italia.sketch
+          add: Italia-UI-Kit.sketch
           author_name: Bot
           author_email: noreply@designers.italia.it
           message: 🤖 update Sketch file
