@@ -1,0 +1,25 @@
+on:
+  push:
+    branches: [feat/next-ui-kit-v3]
+    paths: '*.fig'
+
+jobs:
+  fig2sketch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - run: pip install fig2sketch[fast]
+      - run: pip install certifi
+
+      - run: fig2sketch --force-convert-images --compress Italia-UI-Kit.fig design-system-italia.sketch
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: design-system-italia.sketch
+          author_name: Bot
+          author_email: noreply@designers.italia.it
+          message: 🤖 update Sketch file
