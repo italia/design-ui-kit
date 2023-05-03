@@ -20,7 +20,7 @@ jobs:
 
       - uses: EndBug/add-and-commit@v9
         with:
-          add: Italia-UI-Kit.sketch
+          add: UI-Kit-Italia.sketch
           author_name: Bot
           author_email: noreply@designers.italia.it
-          message: 🤖 update Sketch file
+          message: 🤖 update converted Sketch file
