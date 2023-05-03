@@ -1,4 +1,20 @@
-# UI Kit
+# UI Kit Italia
+
+La risorsa del design system del Paese per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
+
+-----
+
+## Ciao!
+
+**Questa è la versione 3 dello UI Kit, risorsa ufficiale del design system del Paese. Un’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettino le norme e semplifichino la vita dei cittadini.**
+
+Scopri **[come iniziare](https://prossima.designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti, e la documentazione ufficiale del [design system](https://prossima.designers.italia.it/design-system/), nel nuovo sito Designers Italia.
+
+Lo UI Kit è disponibile per duplicazione dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia), e scaricabile in locale (anche in formato Sketch) dalla presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
+
+I [design tokens](https://prossima.designers.italia.it/design-system/fondamenti/design-tokens/) dello UI Kit sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
+
+Per partecipare con segnalazioni o contributi è possibile [aprire una “issue”](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
 
 -----
 
