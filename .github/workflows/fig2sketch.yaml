@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches: [feat/next-ui-kit-v3]
+    branches: [main]
     paths: '*.fig'
 
 jobs:
