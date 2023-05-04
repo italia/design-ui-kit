@@ -1,2 +1,0 @@
-[console_scripts]
-fig2sketch = fig2sketch:main
