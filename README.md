@@ -2,6 +2,8 @@
 
 La risorsa del design system del Paese per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
 
+![UI Kit preview](https://prossima.designers.italia.it/static/c454a0c74d8e70f0349e9ac1df1ec35f/e8469/uikit.avif)
+
 ## Ciao!
 
 **Questa è la versione 3 dello UI Kit, risorsa ufficiale del design system del Paese. L’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita dei cittadini.**
