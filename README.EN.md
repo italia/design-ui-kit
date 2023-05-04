@@ -1,6 +1,8 @@
 # UI Kit Italia
 
-This repository hosts: 
+Italy's Design System resource for the design and prototyping of Italian public administration websites and digital services.
+
+## This repository hosts: 
 
 - the file of the UI Kit v3 in its native Figma format (.fig), also available through the [dedicated Designers Italia project community page](https://figma.com/@designersitalia/), where you can preview, and, contribute to the work in progress by commenting on the entire kit or specific parts; 
 
