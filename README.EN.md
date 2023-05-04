@@ -1,7 +1,13 @@
+# UI Kit v2 (deprecated) 🚧 
+This is an old version (v2) of the UI Kit (Italian Design System).   
+Please refer to the latest (v3+) on the [main branch](https://github.com/italia/design-ui-kit). 
+
+----
+
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
-# UI Kit
+## UI Kit
 
 <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
 
@@ -24,13 +30,13 @@ Based on [an inventory and a roadmap](https://docs.google.com/spreadsheets/d/183
 **An example of the use of the UI Kit** is the [prototype of the Italian Municipalities website](https://github.com/italia/design-comuni-prototipi). The layout was created using and adapting the components of the UI Kit to specific cases.
 
 
-## Index
+### Index
 
 - [Getting started](#getting-started)
 - [Reporting bugs and requests](#reporting-bug-and-request-to-help)
 - [How to contribute](#how-to-contribute)
 
-## Getting started
+### Getting started
 
 * The kit is a Sketch file, before opening it we suggest you download the following typefaces from Google Font: [Titillium](https://fonts.google.com/specimen/Titillium+Web), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), and [Lora](https://fonts.google.com/specimen/Lora).
 * In the repo you find the *italia-UI Kit.schetch* file that includes components and styles in a single file, but if you need only specific components, you can download only the one that interests you from the *Components* folder.
@@ -45,13 +51,13 @@ The kit is an open and constantly evolving project not only for components yet t
 
 **If you don't have Sketch** you can import the file in another prototyping tool like [Figma](https://www.figma.com), [Invision Studio](https://www.invisionapp.com/studio ) or [Adobe XD](https://www.adobe.com/uk/products/xd.html), or install [Lunacy](https://icons8.it/lunacy) to use Sketch on Windows.
 
-## Reporting bugs and requests
+### Reporting bugs and requests
 
 Do you want to report a bug or make a request?
 
 Take a look at how to [create an issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue). If you want to discuss the choices made or something is not clear to you, you can come and talk about it on [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) or on the [Forum](https://forum.italia.it/) by Designers Italia.
 
-## How to contribute
+### How to contribute
 
 Would you like to help out with the UI Kit? **You're in the right place**
  
