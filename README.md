@@ -1,8 +1,14 @@
+# UI Kit v2 (deprecata) 🚧 
+Questo ramo della repository contiene la versione deprecata dello UI Kit e altri materiali d'archivio.  
+Ti invitiamo a far riferimento alla versione corrente (v3+) sul [ramo main](https://github.com/italia/design-ui-kit).  
+
+-----
+
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 
 *Read this in other languages: [English](README.EN.md).*
 
-# UI Kit
+## UI Kit
 
  <img src="INSTRUCTIONS/UI KIT IMG.png" width="800"> 
  
@@ -25,7 +31,7 @@ Sulla base di [un inventario e una roadmap](https://docs.google.com/spreadsheets
 **Un Esempio di uso dello UI Kit** è il [prototipo del sito web dei Comuni italiani](https://github.com/italia/design-comuni-prototipi). Il layout è stato realizzato utilizzando e adattando agli specifici casi i componenti dello UI Kit. 
 
 
-## Indice
+### Indice
 
 - [Come iniziare](#come-iniziare)
 - [Segnalazione bug e richieste](#segnalazione-bug-e-richieste-di-aiuto)
@@ -48,13 +54,13 @@ Il kit è un progetto aperto e in continua evoluzione non solo per i componenti 
 
 
 
-## :wrench: Segnalazione bug e richieste di aiuto
+### :wrench: Segnalazione bug e richieste di aiuto
 
 Vuoi segnalare un bug o fare una richiesta?
 
 Dai un'occhiata a come [creare una issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://developersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Deigners Italia.
 
-## :sparkles: Come contribuire
+### :sparkles: Come contribuire
 
 Vorresti dare una mano sullo UI Kit? **Sei nel posto giusto!**
  
