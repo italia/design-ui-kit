@@ -24,3 +24,9 @@ jobs:
           author_name: Bot
           author_email: noreply@designers.italia.it
           message: 🤖 update converted Sketch file
+          # Pull before committing, so that HEAD is updated if there
+          # have been any commits while the converter was running.
+          #
+          # `true` would be more elegant once https://github.com/EndBug/add-and-commit/issues/498
+          # is fixed
+          pull: " "
