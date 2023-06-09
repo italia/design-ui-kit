@@ -2,17 +2,17 @@
 
 La risorsa del design system del Paese per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
 
-![UI Kit preview](https://prossima.designers.italia.it/static/c454a0c74d8e70f0349e9ac1df1ec35f/e8469/uikit.avif)
+![UI Kit preview](https://designers.italia.it/static/c454a0c74d8e70f0349e9ac1df1ec35f/e8469/uikit.avif)
 
 ## Ciao!
 
 **Questa è la versione 3 dello UI Kit, risorsa ufficiale del design system del Paese. L’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita dei cittadini.**
 
-Scopri **[come iniziare](https://prossima.designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system](https://prossima.designers.italia.it/design-system/) nel nuovo sito Designers Italia.
+Scopri **[come iniziare](https://designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system](https://designers.italia.it/design-system/) nel nuovo sito Designers Italia.
 
 Lo UI Kit è disponibile per visualizzazione e copia dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dalla presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
 
-I [design tokens](https://prossima.designers.italia.it/design-system/fondamenti/design-tokens/) dello UI Kit sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
+I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) dello UI Kit sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
 
 Per partecipare con segnalazioni o contributi puoi [aprire una “issue”](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
 
