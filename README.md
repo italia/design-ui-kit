@@ -14,7 +14,7 @@ UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https:
 
 I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) di UI Kit Italia sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
 
-Per partecipare con segnalazioni o contributi puoi [aprire una “issue”](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
+Scopri [come contribuire](https://designers.italia.it/design-system/come-contribuire/per-il-design/): per partecipare con segnalazioni o contributi puoi [aprire una segnalazione](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
 
 ## Questa repository ospita: 
 
