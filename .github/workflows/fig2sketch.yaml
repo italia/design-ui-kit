@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: italia/figma-to-sketch-action@v0.1.1
+      - uses: italia/figma-to-sketch-action@v0.1.2
         with:
           files: 'UI-Kit-Italia.fig'
           output_files: 'UI-Kit-Italia.sketch'
