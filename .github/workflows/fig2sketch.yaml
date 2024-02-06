@@ -9,15 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: italia/figma-to-sketch-action@v0.1.0
         with:
-          python-version: '3.11'
-
-      - run: pip install fig2sketch[fast]
-      - run: pip install certifi
-
-      - run: fig2sketch --force-convert-images --compress UI-Kit-Italia.fig UI-Kit-Italia.sketch
-
+          files: 'UI-Kit-Italia.fig'
+          output_files: 'UI-Kit-Italia.sketch'
       - uses: EndBug/add-and-commit@v9
         with:
           add: UI-Kit-Italia.sketch
