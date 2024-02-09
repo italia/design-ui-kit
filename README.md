@@ -1,5 +1,11 @@
 # UI Kit Italia
 
+[![License](https://img.shields.io/github/license/italia/design-ui-kit.svg)](https://github.com/italia/design-ui-kit/blob/main/LICENSE)
+[![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
+[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+
+_🇬🇧 [English version](README.EN.md)_
+
 La risorsa del design system del Paese per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
 
 ![UI Kit preview](https://designers.italia.it/static/c454a0c74d8e70f0349e9ac1df1ec35f/e8469/uikit.avif)
@@ -21,5 +27,3 @@ Scopri [come contribuire](https://designers.italia.it/design-system/come-contrib
 - il salvataggio di UI Kit Italia v3+ nel suo formato nativo Figma (.fig), disponibile per visualizzazione, copia per l'uso e remix anche attraverso la [pagina della community Figma del progetto Designers Italia](https://figma.com/@designersitalia/); 
 - la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_, alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette; 
 - è presente la memoria storica della precedente versione v2 (nativa Sketch, deprecata) dello UI Kit, insieme con altri materiali d'archivio come lo studio per l'evoluzione dell'esperienza utente di SPID, nel [ramo 2.x](https://github.com/italia/design-ui-kit/tree/2.x).
-
-_In stesura_
