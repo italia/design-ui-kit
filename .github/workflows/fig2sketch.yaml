@@ -1,3 +1,4 @@
+name: Figma to Sketch
 on:
   workflow_dispatch:
   push:
@@ -9,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: italia/figma-to-sketch-action@v0.1.3
+      - uses: italia/figma-to-sketch-action@v1.0.0
         with:
           files: 'UI-Kit-Italia.fig'
           output_files: 'UI-Kit-Italia.sketch'
       - uses: EndBug/add-and-commit@v9
         with:
-          add: UI-Kit-Italia.sketch
           author_name: Bot
           author_email: noreply@designers.italia.it
           message: 🤖 update converted Sketch file
