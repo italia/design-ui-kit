@@ -12,9 +12,9 @@ La risorsa del design system del Paese per costruire e prototipare siti internet
 
 ## Ciao!
 
-**Questa è la versione 3 di UI Kit Italia, risorsa ufficiale del design system del Paese. L’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita dei cittadini.**
+**Questa è la versione 3 di UI Kit Italia, risorsa ufficiale del design system .italia. L’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita dei cittadini.**
 
-Scopri **[come iniziare](https://designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system](https://designers.italia.it/design-system/) nel nuovo sito Designers Italia.
+Scopri **[come iniziare](https://designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system .italia](https://designers.italia.it/design-system/) nel nuovo sito Designers Italia.
 
 UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dalla presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
 
