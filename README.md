@@ -25,5 +25,8 @@ Scopri [come contribuire](https://designers.italia.it/design-system/come-contrib
 ## Questa repository ospita: 
 
 - il salvataggio di UI Kit Italia v3+ nel suo formato nativo Figma (.fig), disponibile per visualizzazione, copia per l'uso e remix anche attraverso la [pagina della community Figma del progetto Designers Italia](https://figma.com/@designersitalia/); 
-- la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_, alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette; 
+- la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico per ogni release utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_, alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette;
 - è presente la memoria storica della precedente versione v2 (nativa Sketch, deprecata) dello UI Kit, insieme con altri materiali d'archivio come lo studio per l'evoluzione dell'esperienza utente di SPID, nel [ramo 2.x](https://github.com/italia/design-ui-kit/tree/2.x).
+
+## Come iniziare
+Puoi trovare i file Figma e i file Sketch derivati nell'ultima release del progetto qui su GitHub.
