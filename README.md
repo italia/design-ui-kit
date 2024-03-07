@@ -6,7 +6,7 @@
 
 _🇬🇧 [English version](README.EN.md)_
 
-La risorsa del design system del Paese per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
+La risorsa del **design system .italia** per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
 
 ![UI Kit preview](https://designers.italia.it/static/c454a0c74d8e70f0349e9ac1df1ec35f/e8469/uikit.avif)
 
