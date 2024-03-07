@@ -1,27 +1,33 @@
-name: Figma to Sketch
+name: Release design-ui-kit
 on:
   workflow_dispatch:
   push:
-    branches: [main]
-    paths: '*.fig'
+    tags:
+    - '*'
 
 jobs:
   fig2sketch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: italia/figma-to-sketch-action@v1.0.0
         with:
-          files: 'UI-Kit-Italia.fig'
-          output_files: 'UI-Kit-Italia.sketch'
-      - uses: EndBug/add-and-commit@v9
+          fetch-depth: 0
+          ref: main
+      - name: Fixup git permissions
+        shell: bash
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+      - name: git config
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      - uses: italia/figma-to-sketch-action@v1.0.0 # https://github.com/italia/figma-to-sketch-action
         with:
-          author_name: Bot
-          author_email: noreply@designers.italia.it
-          message: 🤖 update converted Sketch file
-          # Pull before committing, so that HEAD is updated if there
-          # have been any commits while the converter was running.
-          #
-          # `true` would be more elegant once https://github.com/EndBug/add-and-commit/issues/498
-          # is fixed
-          pull: " "
+          files: 'UI-Kit-Italia.fig' # File di input .fig (Figma) separati da `|`
+          output_files: 'UI-Kit-Italia.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: '*.fig,*.sketch'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          allowUpdates: true
+          makeLatest: true
+          omitBodyDuringUpdate: true
