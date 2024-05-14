@@ -1,3 +1,7 @@
+# testing PR
+
+Testing GitHub functionalities
+
 # Code of Conduct
 
 ## 1. Purpose
