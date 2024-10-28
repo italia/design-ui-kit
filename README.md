@@ -16,13 +16,13 @@ La risorsa del **design system .italia** per costruire e prototipare siti intern
 
 Scopri **[come iniziare](https://designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system .italia](https://designers.italia.it/design-system/) nel nuovo sito Designers Italia.
 
-UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dalla presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
+UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dal presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
 
-I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) di UI Kit Italia sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
+I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) di UI Kit Italia sono disponibili per lo sviluppo, nei formati CSS e SCSS, dal repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
 
 Scopri [come contribuire](https://designers.italia.it/design-system/come-contribuire/per-il-design/): per partecipare con segnalazioni o contributi puoi [aprire una segnalazione](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
 
-## Questa repository ospita: 
+## Questo repository ospita: 
 
 - il salvataggio di UI Kit Italia v3+ nel suo formato nativo Figma (.fig), disponibile per visualizzazione, copia per l'uso e remix anche attraverso la [pagina della community Figma del progetto Designers Italia](https://figma.com/@designersitalia/); 
 - la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico per ogni release utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_, alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette;
