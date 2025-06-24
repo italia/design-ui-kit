@@ -20,7 +20,7 @@ jobs:
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-      - uses: italia/figma-to-sketch-action@v1.0.0 # https://github.com/italia/figma-to-sketch-action
+      - uses: italia/figma-to-sketch-action@v1.1.0 # https://github.com/italia/figma-to-sketch-action
         with:
           files: 'UI-Kit-Italia.fig' # File di input .fig (Figma) separati da `|`
           output_files: 'UI-Kit-Italia.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
